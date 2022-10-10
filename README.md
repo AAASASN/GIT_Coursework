@@ -1,12 +1,14 @@
 
+
+
+#Резюме Мараенко Александра
+
 ![](img/0x0-42-bolum-foto-galeri-1646380517071.jpeg)
 
-Резюме Мараенко Александра
-
-RAN Integration Engineer / Wireless Engineer
+#RAN Integration Engineer / Wireless Engineer
 
 
-SWAP Base stations of the customer according to the work plan and according to the SWAP procedure, Integration FTK sites on air, modernization the BTS - entrance / band refarming, adding technologies to the BTSs, solve accidents, troubleshooting, cleanup, working out tickets from the customer
+*SWAP Base stations of the customer according to the work plan and according to the SWAP procedure, Integration FTK sites on air, modernization the BTS - entrance / band refarming, adding technologies to the BTSs, solve accidents, troubleshooting, cleanup, working out tickets from the customer*
 
 
 
